@@ -94,10 +94,10 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <address className="not-italic text-gray-300">
-              <p>Ankit Ka Ghar</p>
-              <p>Ankit ka Shahar, uska Pincode</p>
+              <p>Office Address</p>
+              <p>Office city - pin</p>
               <p className="mt-3">Email: info@EasyTrips.com</p>
-              <p>Phone: +91 8299359282</p>
+              <p>Phone: +91 9999999999</p>
             </address>
           </div>
         </div>
