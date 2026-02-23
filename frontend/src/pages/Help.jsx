@@ -7,7 +7,7 @@ const Help = () => {
   // Contact information
   const contactInfo = {
     email: "ankityadav8299blp@gmail.com",
-    phone: "8299359282"
+    phone: "+91 8889997776"
   };
 
   // Handle email click
